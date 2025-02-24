@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Mendes
 
-- 🔭 Hoje trabalho como aprendiz.
-- 🌱 Estudando JavaScript, Fluuter , HTML e Css.
+- 🔭 Hoje trabalho como assistente técnico em T.I na empresa Corumba.
+- 🌱 Estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/https://github.com/luksmndz">
