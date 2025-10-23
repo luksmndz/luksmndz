@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Lucas Mendes
 
-- 🔭 Hoje trabalho como assistente técnico em T.I na empresa Corumba.
-- 🌱 Estudando JavaScript.
-
+- 🔭 Acadêmico em Engenharia da Computação.
 <div align="center">
   <a href="https://github.com/https://github.com/luksmndz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksmndz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
